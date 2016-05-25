@@ -1,4 +1,4 @@
-package edu.kytsmen.designpatterns.observer;
+package edu.kytsmen.designpatterns.observer.v1;
 
 public class ObserverPatternExecutor {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package edu.kytsmen.designpatterns.observer;
+package edu.kytsmen.designpatterns.observer.v1;
 
 import java.util.ArrayList;
 import java.util.List;
