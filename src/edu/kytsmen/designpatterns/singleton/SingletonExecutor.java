@@ -1,4 +1,4 @@
-package edu.kytsmen.designpatterns.singleton.v1;
+package edu.kytsmen.designpatterns.singleton;
 
 public class SingletonExecutor {
     public static void main(String[] args) {

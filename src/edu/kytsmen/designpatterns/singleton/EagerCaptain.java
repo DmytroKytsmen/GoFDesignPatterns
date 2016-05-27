@@ -1,4 +1,4 @@
-package edu.kytsmen.designpatterns.singleton.v1;
+package edu.kytsmen.designpatterns.singleton;
 
 public class EagerCaptain {
     private static EagerCaptain _captain = new EagerCaptain();
