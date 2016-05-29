@@ -1,4 +1,4 @@
-package edu.kytsmen.designpatterns.adapter;
+package edu.kytsmen.designpatterns.adapter.v1;
 
 public class Calculator {
     Rectangle rectangle;
